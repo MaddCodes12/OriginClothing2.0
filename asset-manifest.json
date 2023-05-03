@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/OriginClothing256/static/css/main.f39513c1.css",
-    "main.js": "/OriginClothing256/static/js/main.abaceb29.js",
-    "index.html": "/OriginClothing256/index.html",
-    "main.f39513c1.css.map": "/OriginClothing256/static/css/main.f39513c1.css.map",
-    "main.abaceb29.js.map": "/OriginClothing256/static/js/main.abaceb29.js.map"
+    "main.css": "/OriginClothing2.0/static/css/main.f39513c1.css",
+    "main.js": "/OriginClothing2.0/static/js/main.abaceb29.js",
+    "index.html": "/OriginClothing2.0/index.html",
+    "main.f39513c1.css.map": "/OriginClothing2.0/static/css/main.f39513c1.css.map",
+    "main.abaceb29.js.map": "/OriginClothing2.0/static/js/main.abaceb29.js.map"
   },
   "entrypoints": [
     "static/css/main.f39513c1.css",
