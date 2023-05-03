@@ -1,0 +1,227 @@
+[
+	{
+			"id": "0",
+			"Category": "Graphic Tees",
+			"image": "https://cdn.shopify.com/s/files/1/0210/9734/products/nayked-apparel-men-men-s-ridiculously-soft-midweight-graphic-tee-take-a-hike-kelly-green-x-small-na210n6-hike-20812134350997_1178x.jpg?v=1628483890",
+			"Size": "Medium",
+			"Color": "Grey",
+			"gender":"men",
+			"Price": 13.99
+		},
+		{
+
+			"id": "1",
+			"Category": "Long Sleeves",
+			"image": "https://cdn.shopify.com/s/files/1/0580/9596/0254/products/13660-2081-solar-flex-crew-Mannequin-s23-front_533x.jpg?v=1680136069",
+			"Size": "Medium",
+			"Color": "White",
+			"gender":"men",
+			"Price": 15.00
+		},
+		{
+			"id": "2",
+			"Category": "T-Shirts",
+			"image": "https://cdn11.bigcommerce.com/s-lk0gwzb/images/stencil/1280x1280/products/1645/7555/forestgreen-front__14847.1674780012.jpg?c=2",
+			"Size": "Large",
+			"Color": "Light Blue",
+			"gender":"men",
+			"Price": 14.99
+
+		},
+		{
+
+			"id": "3",
+			"Category": "Hoodies",
+			"image": "https://i.ebayimg.com/images/g/Yw8AAOSwVpJiF~h-/s-l500.jpg",
+			"Size": "Small",
+			"Color": "Black",
+			"gender":"men",
+			"Price": 21.99
+
+		},
+		{
+
+
+
+			"id": "4",
+			"Category": "Cargo Pants",
+			"image": "https://m.media-amazon.com/images/I/61w89+XcLsL._AC_UY1000_.jpg",
+			"Size": "Large",
+			"Color": "Navy Blue",
+			"gender":"men",
+			"Price": 32.00
+
+		},
+		{
+
+
+			"id": "5",
+			"Category": "Sweatpants",
+			"image": "https://media.gq.com/photos/64347b2e88e7fd3bbb352a04/master/w_1280%2Cc_limit/J.Crew-Heritage-14-Oz.-fleece-sweatpant.jpg",
+			"Size": "Extra Large",
+			"Color": "Light Blue",
+			"gender":"men",
+			"Price": 25.00
+
+		},
+		{
+
+
+			"id": "6",
+			"Category": "Shorts",
+			"image": "https://cdn.shopify.com/s/files/1/0745/3955/products/Jordan_Sport_Dri-FIT_Fleece_Shorts_DM1819-011_Black_hover.jpg?v=1654238406",
+			"Size": "Medium",
+			"Color": "Black and White",
+			"gender":"men",
+			"Price": 18.00
+
+		},
+		{
+
+
+			"id": "7",
+			"Category": "Flannels",
+			"image": "https://products.blains.com/600/140/1404648.webp",
+			"Size": "Large",
+			"Color": "Green",
+			"gender":"men",
+			"Price": 28.00
+
+		},
+		{
+
+
+			"id": "8",
+			"Category": "Baseball Cap",
+			"image": "https://m.media-amazon.com/images/I/31EJOuXj18L._AC_.jpg",
+			"Size": "Medium",
+			"Color": "Beige",
+			"gender":"men",
+			"Price": 15.00
+
+		},
+		{
+
+
+			"id": "9",
+			"Category": "Jackets",
+			"image": "https://i.ebayimg.com/images/g/c4YAAOSweRZjrJQ5/s-l1600.png",
+			"Size": "Small",
+			"Color": "Light Green",
+			"gender":"men",
+			"Price": 45.00
+
+		},
+		{
+
+
+
+			"id": "10",
+			"Category": "Oversized Shirts",
+			"image": "https://assets.vogue.com/photos/604b7b220ee0a990a8947b00/3:4/w_1280%2Cc_limit/slide%2520(7).jpg",
+			"Size": "Large",
+			"Color": "Black",
+			"gender":"women",
+			"Price": 21.99
+
+		},
+		{
+
+
+			"id": "11",
+			"Category": "Tracksuit",
+			"image": "https://lookagain.scene7.com/is/image/OttoUK/553w/girls-training-tracksuit-by-adidas-performance~27539138FRSC.jpg",
+			"Size": "Small",
+			"Color": "White",
+			"gender":"women",
+			"Price": 35.00
+
+		},
+		{
+
+
+			"id": "12",
+			"Category": "Puffer Jacket ",
+			"image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F93%2F1d%2F931d8dbda890b35c4d96a4b84cb1c3ae94b558ef.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+			"Size": "Medium",
+			"Color": "Grey",
+			"gender":"women",
+			"Price": 45.00
+
+		},
+		{
+
+
+			"id": "13",
+			"Category": "Band T-Shirt",
+			"image": "https://cdn.bandtshirts.com.au/thumb/720x720/crop/https/lpatm.s3.amazonaws.com/bts/product/queen-tee1-190517-151023.jpg",
+			"Size": "Extra Large",
+			"Color": "Pink",
+			"gender":"women",
+			"Price": 18.95
+
+		},
+		{
+
+
+			"id": "14",
+			"Category": "Flannel Shirt",
+			"image": "https://cdn.shopify.com/s/files/1/0186/1574/products/SH1039771_RD01.jpg?v=1628524503",
+			"Size": "Medium",
+			"Color": "Blue",
+			"gender":"women",
+			"Price": 25.00
+
+
+		},
+		{
+			"id": "15",
+			"Category": "Joggers",
+			"image": "https://cdn.shopify.com/s/files/1/1429/6162/products/WOMANJOGGERBLACK-min_1500x.jpg?v=1603845072",
+			"Size": "Medium",
+			"Color": "Grey",
+			"gender":"women",
+			"Price": 29.95
+		},
+		{
+			"id": "16",
+			"Category": "Crop Top",
+			"image": "https://cdn.shopify.com/s/files/1/0794/9699/products/techno-schwarz-croptop-frauen_740x.jpg?v=1584968452",
+			"Size": "Medium",
+			"Color": "Grey",
+			"gender":"women",
+			"Price": 11.00
+		},
+		{
+			"id": "17",
+			"Category": "Denim Jacket",
+			"image": "https://static.zara.net/photos///2022/V/0/3/p/6987/610/406/2/w/1920/6987610406_6_1_1.jpg?ts=1649864952143",
+			"Size": "Medium",
+			"Color": "Grey",
+			"gender":"women",
+			"Price": 36.00
+		},
+		{
+			"id": "18",
+			"Category": "Blazer",
+			"image": "https://i5.walmartimages.com/asr/72929f91-404e-48bd-8c60-61869b9e3f55.d1dee8129132941f67d3468316153f19.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+			"Size": "Medium",
+			"Color": "Grey",
+			"gender":"women",
+			"Price": 50.00
+		},
+		{
+			"id": "19",
+			"Category": "Knitted Sweater",
+			"image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb8%2Fd0%2Fb8d097b529655c24c430a1b32d56cf338e591747.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+			"Size": "Medium",
+			"Color": "Grey",
+			"gender":"women",
+			"Price": 36.00
+		}
+
+
+
+	]
+
+
